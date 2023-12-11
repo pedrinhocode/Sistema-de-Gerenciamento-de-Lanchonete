@@ -10,8 +10,13 @@ O objetivo principal do Sistema é oferecer um gerenciamento intuitivo e eficien
 # Tecnologias utilizadas no projeto
 
 CSS
+
 HTML
+
 JavaScript
+
 MySQL
+
 Python
+
 Django
